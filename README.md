@@ -21,7 +21,13 @@ You can put any resource that you need it. To add <a href="http://getbootstrap.c
 <link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 ```
+Features
+========
 
+-Remove leading zeros
+-Just show two decimals
+-Replace ',' to '.'
+-Doble zero at decimal positions are change to a sign like this '.-'
 
 Example
 ========

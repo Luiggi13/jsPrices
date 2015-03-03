@@ -24,10 +24,12 @@ You can put any resource that you need it. To add <a href="http://getbootstrap.c
 Features
 ========
 
--Remove leading zeros
--Just show two decimals
--Replace ',' to '.'
--Doble zero at decimal positions are change to a sign like this '.-'
+<ul>
+<li>Remove leading zeros</li>
+<li>Just show two decimals</li>
+<li>Replace ',' to '.'</li>
+<li>Doble zero at decimal positions are change to a sign like this <strong>.-</strong></li>
+</ul>
 
 Example
 ========

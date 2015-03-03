@@ -1,6 +1,6 @@
 jsPrices
 =======
-[![Download Help](http://XXXXX/jsPrices.pdf)
+[![Download Help](http://XXXXX/jsPrices.pdf)](http://XXXXX/jsPrices.pdf)
 
 This module contains an implementation of Markowitz algorithm for the portfolio
 optimization, a routine for retrieving historical prices from Yahoo,
